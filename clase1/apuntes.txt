@@ -1,0 +1,6 @@
+
+clase 0
+
+1-Vamos a realizar un eccommers, se va calificar solo el backend dedicarle mas tiempo a lo qeu piden. luego miran si mejoran el frontend  
+2-Cuando nos graduemos podem,os decir qeu somos stack MERN (mongoDB, ExpressJS,ReactJS, NodeJs)
+3-

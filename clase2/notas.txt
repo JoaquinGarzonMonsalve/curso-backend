@@ -1,0 +1,5 @@
+notas clase2
+
+1- hay varias formas de copiar por valor o por referencia
+2- los arrays solo copian por valor 
+3-los objetos pueden copiar por valor o referencia
